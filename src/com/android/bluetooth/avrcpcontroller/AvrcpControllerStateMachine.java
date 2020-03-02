@@ -109,7 +109,7 @@ class AvrcpControllerStateMachine extends StateMachine {
 
 
     private static final String TAG = "AvrcpControllerSM";
-    private static final boolean DBG = true;
+    private static final boolean DBG = false;
     private static final boolean VDBG = false;
 
     private final Context mContext;

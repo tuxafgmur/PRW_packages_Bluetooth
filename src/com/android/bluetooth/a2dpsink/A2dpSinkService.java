@@ -37,7 +37,7 @@ import java.util.List;
  * @hide
  */
 public class A2dpSinkService extends ProfileService {
-    private static final boolean DBG = true;
+    private static final boolean DBG = false;
     private static final String TAG = "A2dpSinkService";
 
     private A2dpSinkStateMachine mStateMachine;

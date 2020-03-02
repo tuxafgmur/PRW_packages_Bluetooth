@@ -47,7 +47,7 @@ import javax.obex.ServerSession;
 public class ObexServerSockets {
     private final String mTag;
     private static final String STAG = "ObexServerSockets";
-    private static final boolean D = true; // TODO: set to false!
+    private static final boolean D = false;
     private static final int NUMBER_OF_SOCKET_TYPES = 2; // increment if LE will be supported
 
     private final IObexConnectionHandler mConHandler;

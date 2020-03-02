@@ -38,7 +38,7 @@ import javax.obex.ServerRequestHandler;
 public class ObexRejectServer extends ServerRequestHandler implements Callback {
 
     private static final String TAG = "ObexRejectServer";
-    private static final boolean V = true;
+    private static final boolean V = false;
     private final int mResult;
     private final HandlerThread mHandlerThread;
     private final Handler mMessageHandler;

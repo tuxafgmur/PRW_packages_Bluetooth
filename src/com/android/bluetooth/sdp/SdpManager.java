@@ -37,7 +37,7 @@ import java.util.Arrays;
 
 public class SdpManager {
 
-    private static final boolean D = true;
+    private static final boolean D = false;
     private static final boolean V = false;
     private static final String TAG = "SdpManager";
 

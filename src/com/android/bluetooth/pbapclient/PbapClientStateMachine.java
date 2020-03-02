@@ -67,7 +67,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 final class PbapClientStateMachine extends StateMachine {
-    private static final boolean DBG = true;
+    private static final boolean DBG = false;
     private static final String TAG = "PbapClientStateMachine";
 
     // Messages for handling connect/disconnect requests.

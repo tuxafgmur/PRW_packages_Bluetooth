@@ -16,7 +16,7 @@
 
 #define LOG_TAG "BluetoothHearingAidServiceJni"
 
-#define LOG_NDEBUG 0
+//#define LOG_NDEBUG 0
 
 #include "android_runtime/AndroidRuntime.h"
 #include "base/logging.h"

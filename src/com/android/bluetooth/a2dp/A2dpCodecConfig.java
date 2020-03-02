@@ -28,7 +28,7 @@ import com.android.bluetooth.R;
  * A2DP Codec Configuration setup.
  */
 class A2dpCodecConfig {
-    private static final boolean DBG = true;
+    private static final boolean DBG = false;
     private static final String TAG = "A2dpCodecConfig";
 
     private Context mContext;

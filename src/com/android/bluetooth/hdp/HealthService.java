@@ -54,7 +54,7 @@ import java.util.NoSuchElementException;
  * @hide
  */
 public class HealthService extends ProfileService {
-    private static final boolean DBG = true;
+    private static final boolean DBG = false;
     private static final boolean VDBG = false;
     private static final String TAG = "HealthService";
 

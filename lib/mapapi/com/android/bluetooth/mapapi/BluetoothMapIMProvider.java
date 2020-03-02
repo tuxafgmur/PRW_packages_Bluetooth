@@ -40,7 +40,7 @@ import java.util.Set;
 public abstract class BluetoothMapIMProvider extends ContentProvider {
 
     private static final String TAG = "BluetoothMapIMProvider";
-    private static final boolean D = true;
+    private static final boolean D = false;
 
     private static final int MATCH_ACCOUNT = 1;
     private static final int MATCH_MESSAGE = 3;

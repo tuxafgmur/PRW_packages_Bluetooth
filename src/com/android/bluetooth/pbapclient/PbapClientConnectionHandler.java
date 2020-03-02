@@ -47,7 +47,7 @@ import javax.obex.ResponseCodes;
  */
 class PbapClientConnectionHandler extends Handler {
     static final String TAG = "PBAP PCE handler";
-    static final boolean DBG = true;
+    static final boolean DBG = false;
     static final int MSG_CONNECT = 1;
     static final int MSG_DISCONNECT = 2;
     static final int MSG_DOWNLOAD = 3;

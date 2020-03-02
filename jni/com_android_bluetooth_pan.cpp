@@ -16,7 +16,7 @@
 
 #define LOG_TAG "BluetoothPanServiceJni"
 
-#define LOG_NDEBUG 0
+//#define LOG_NDEBUG 0
 
 #include "android_runtime/AndroidRuntime.h"
 #include "com_android_bluetooth.h"
